@@ -3,3 +3,4 @@ __pycache__/
 dataset/
 *.pyc
 .DS_Store
+plant_disease_model.keras
