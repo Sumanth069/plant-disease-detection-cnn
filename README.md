@@ -33,6 +33,8 @@ Train the model using `train.py` to generate `plant_disease_model.keras`.
 
 ## 📸 Demo
 Upload a leaf image to detect disease and view prediction confidence.
+<img width="1544" height="1095" alt="Image" src="https://github.com/user-attachments/assets/56bfb631-cde7-46f0-b9dd-aaf4d74ad39e" />
+<img width="1917" height="1111" alt="Image" src="https://github.com/user-attachments/assets/f372a67e-27e3-4faa-a371-1af9ed8a65b5" />
 
 ---
 Developed as an academic deep learning project.
